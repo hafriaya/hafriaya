@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Pacman Contribution Graph](https://raw.githubusercontent.com/hafriaya/hafriaya/output/pacman.svg)
+
 <!--
 **hafriaya/hafriaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
