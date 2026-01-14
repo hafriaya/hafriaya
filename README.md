@@ -30,6 +30,6 @@ A **film recommendation desktop app** built with **Java & Neo4j**.
 
 ## 📊 GitHub Stats
 
-![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafriaya&show_icons=true&theme=radical&count_private=true)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafriaya&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafriaya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafriaya&layout=compact&theme=radical&hide_border=true)
